@@ -1,0 +1,1 @@
+import {CreateComponent} from "../../components/site/CreateComponent";const create = ({}) => {    return(<>        <CreateComponent />    </>)}export default create;

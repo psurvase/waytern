@@ -1,0 +1,1 @@
+import {CreateComponent} from "../../components/message/CreateComponent";const create = ({}) => {    return(<>        <CreateComponent />    </>)}export default create;
